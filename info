@@ -4,3 +4,11 @@
 - add
 - commit
 - push
+3. Назначить гиту отслеживать папку console_test
+- git init
+4. Статус файлов в гите
+- git status
+5. Начать отслеживать фаил
+- git add filename.py
+6. Команда гиду для просмотра логов
+- git log
